@@ -9,6 +9,15 @@
 - 💨 Nem, rüzgar hızı gibi detaylı bilgiler
 - 👤 Basit ve kullanıcı dostu arayüz
 
+## Ekran Görüntüleri
+
+## Arayüz (örnek)
+![image](https://github.com/user-attachments/assets/1064d804-2bdd-4bb6-ab3a-9622a89fa232)
+
+## Grafik Ekranı (örnek)
+![image](https://github.com/user-attachments/assets/9f1a2716-e67b-4e1c-a52f-c3ccd4415f88)
+
+
 ## 🔧 Kurulum
 
 1. Bu projeyi klonlayın:
